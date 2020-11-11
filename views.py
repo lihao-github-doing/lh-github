@@ -1,7 +1,7 @@
 import random
 import string
 # 111111
-# 2222222
+# 22222212122
 from django.http import HttpResponse
 from django.shortcuts import render, redirect
 
